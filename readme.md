@@ -34,5 +34,5 @@ A minimal, responsive web app that generates random motivational quotes paired w
 
 \- Vanilla JavaScript (DOM Manipulation \& Clipboard API)
 
-\[click to view](https://minshida-latheef.github.io/random-quote-generator/)
+[click to view](https://minshida-latheef.github.io/random-quote-generator/)
 
